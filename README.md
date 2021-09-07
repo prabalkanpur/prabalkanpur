@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Android Development
-- 👯 Below listed is my work on Android ...
+- 👯 Below listed is my work on Android: -
 
 <!--
 **prabalkanpur/prabalkanpur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
